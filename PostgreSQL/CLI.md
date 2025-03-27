@@ -12,5 +12,11 @@ psql is the PostgreSQL interative terminal. "A terminal-based front-end to Postg
 ## List tables
 `\dt`
 
+## Run file.sql
+`\i path/to/file.sql`
+
+## Describe table structure
+`\d table_name`
+
 ## Exit psql
 `\q`
