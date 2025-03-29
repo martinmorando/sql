@@ -18,3 +18,7 @@ I have used SQL in several projects, such as Resumenes.org, YouShare.TV and [Bit
         - 005-rename-table.sql
     - **002-DML/**
         - 001-insert-into.sql
+        - 002-update.sql
+        - 003-delete-from.sql
+    - **003-DQL/**
+        - 001-select.sql
