@@ -1,5 +1,6 @@
 /*
     INSERT INTO
+    Insert data (1 or more rows) into a table.
 */
 
 INSERT INTO movies (title, director, year_published) 
